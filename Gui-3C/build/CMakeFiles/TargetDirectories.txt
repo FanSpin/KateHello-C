@@ -1,0 +1,3 @@
+/home/daniel/Documents/Gui-3C/build/CMakeFiles/clock_gui.dir
+/home/daniel/Documents/Gui-3C/build/CMakeFiles/edit_cache.dir
+/home/daniel/Documents/Gui-3C/build/CMakeFiles/rebuild_cache.dir

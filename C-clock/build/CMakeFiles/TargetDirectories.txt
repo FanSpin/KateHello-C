@@ -1,0 +1,3 @@
+/home/daniel/Documents/C-clock/build/CMakeFiles/clock.dir
+/home/daniel/Documents/C-clock/build/CMakeFiles/edit_cache.dir
+/home/daniel/Documents/C-clock/build/CMakeFiles/rebuild_cache.dir

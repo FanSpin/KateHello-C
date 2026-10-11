@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/daniel/Documents/Gui-3C/build",
+  "command": "/usr/bin/cc  -isystem /usr/include/gtk-4.0 -isystem /usr/include/pango-1.0 -isystem /usr/include/glib-2.0 -isystem /usr/lib/x86_64-linux-gnu/glib-2.0/include -isystem /usr/include/harfbuzz -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/cairo -isystem /usr/include/pixman-1 -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/webp -isystem /usr/include/graphene-1.0 -isystem /usr/lib/x86_64-linux-gnu/graphene-1.0/include -mfpmath=sse -msse -msse2 -pthread -o CMakeFiles/clock_gui.dir/clock_gui.c.o -c /home/daniel/Documents/Gui-3C/clock_gui.c",
+  "file": "/home/daniel/Documents/Gui-3C/clock_gui.c",
+  "output": "CMakeFiles/clock_gui.dir/clock_gui.c.o"
+}
+]
